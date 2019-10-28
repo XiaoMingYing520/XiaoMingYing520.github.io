@@ -1,0 +1,1 @@
+<h3 class="title dark-title"><a href="[field:typelink/]">[field:typename/]</a></h3>

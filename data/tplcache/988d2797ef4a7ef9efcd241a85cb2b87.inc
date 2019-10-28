@@ -1,0 +1,1 @@
+<li style="background-image:url([field:picname/]);" class="slider-item"> <a class="slider-link"></a> </li>

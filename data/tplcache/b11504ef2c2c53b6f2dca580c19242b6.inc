@@ -1,0 +1,1 @@
+<div class="item"> <a href="[field:imgsrc/]" title="[field:text/]" class="fancybox" rel="fancy-gallery"><img class="pic-img" src="[field:imgsrc/]" alt="[field:text/]"/></a> </div>
