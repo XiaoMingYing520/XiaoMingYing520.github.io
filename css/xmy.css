@@ -1,0 +1,168 @@
+body {
+	background: #333;
+}
+
+.xmy {
+	max-width: 520px;
+	margin: 0 auto;
+	background: #f9f9f9;
+
+}
+
+.title {
+	text-align: center;
+	color: #fff;
+	font-size: 26px;
+	background-color: rgb(27, 130, 209);
+	padding: 20px 20px 0 20px;
+	box-sizing: border-box;
+
+}
+.my_img{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 20px 0;
+	box-sizing: border-box;
+}
+.my_img img{
+	width: 50px;
+	height: 50px;
+}
+
+.xiaoming {
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	margin-right: 15px;
+	border: 4px solid #eee;
+	background: #fff;
+}
+
+.xmy_top {
+	background-color: rgb(27, 130, 209);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 10px;
+	box-sizing: border-box;
+}
+.xmy_top .tips{
+	width: 70%;
+}
+.tips .name {
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.tips .job {
+	font-size: 14px;
+	margin: 10px 0;
+	color: #fff;
+}
+
+.tips .phone {
+	font-size: 14px;
+	color: #fff;
+}
+
+
+.works_cont {
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.works_cont .works_title {
+	font-size: 18px;
+	border-left: 5px solid #1b82d1;
+	padding-left: 10px;
+	line-height: 18px;
+	font-weight: bold;
+}
+
+.works_cont .my_cont {
+	font-size: 14px;
+	margin-top: 10px;
+}
+.works_cont .my_cont_img{
+	width: 100%;
+}
+.works_cont .job_list{
+	
+}
+
+.works_cont .job_item{
+	margin-bottom: 20px;
+}
+.works_cont .job_item h3{
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.works_cont .job_item h4{
+	font-size: 14px;
+	margin-top: 10px;
+}
+.works_cont .job_item h5{
+	font-size: 14px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+.works_cont .job_item p{
+	font-size: 14px;
+	margin-top: 5px;
+}
+
+.works_list{
+	margin-top: 20px;	
+}
+.works_list .works_item{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	box-sizing: border-box;
+	border-bottom: 3px dashed #eee;
+}
+.works_list .works_item:hover img{
+	transform: scale(1.1);
+}
+.works_item .works_img{
+	width: 30%;
+	margin-right: 20px;
+	height: 100px;
+	overflow: hidden;
+}
+.works_item .works_img img{
+	width: 100%;
+	height: 100px;
+	object-fit: cover;
+	transition: all 0.5s; 
+}
+.works_item .works_name{
+	width: 70%;
+}
+.works_item .works_name h3{
+	font-size: 16px;
+	font-weight: bold;
+}
+.works_item .works_name p{
+	font-size: 14px;
+}
+.works_item .works_name i{
+	color: #1b82d1;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
